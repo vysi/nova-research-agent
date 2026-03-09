@@ -7,6 +7,10 @@ AI-powered research assistant using Amazon Nova to gather, analyze, and synthesi
 ![AWS](https://img.shields.io/badge/AWS-Bedrock-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+## 🎬 Demo Video
+
+Watch the demo: [Nova Research Agent Demo](https://www.loom.com/share/ee0581efc8ff4a1a8ac0c0241e1de505)
+
 ## Overview
 
 Transform hours of manual research into seconds with AI-powered intelligence. Nova Research Agent automatically searches multiple sources, analyzes content, and generates comprehensive research summaries with citations.
